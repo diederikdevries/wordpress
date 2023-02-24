@@ -1,4 +1,4 @@
-PKG mariadb105-server nginx php74-curl php74-dom php74-fileinfo php74-exif php74-json php74-mbstring php74-extensions php74-mysqli php74-openssl php74-pecl-libsodium php74-xml php74-zip php74-filter php74-gd php74-iconv php74-simplexml php74-xmlreader php74-zlib php74-pecl-imagick php74-pecl-mcrypt php74-bcmath wordpress
+PKG mariadb106-server nginx php80-curl php80-dom php80-fileinfo php80-exif php80-json php80-mbstring php80-extensions php80-mysqli php80-openssl php80-pecl-libsodium php80-xml php80-zip php80-filter php80-gd php80-iconv php80-simplexml php80-xmlreader php80-zlib php80-pecl-imagick php80-pecl-mcrypt php80-bcmath wordpress
 
 CP usr /
 CP root /
